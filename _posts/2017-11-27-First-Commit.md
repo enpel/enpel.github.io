@@ -33,7 +33,7 @@ tags:
 
 ## おまけ
 
-AECRNIAというところが開発しているELMIAというゲームの体験版のプレイ動画をとったのでどうぞ見てみてください。
+AECRNIAというところが開発しているELMIAというゲームの体験版のプレイ動画をとってみました。
 Steamのページもあるそうです。
 
 Steam： [http://store.steampowered.com/app/738020/ELMIA/](http://store.steampowered.com/app/738020/ELMIA/)
