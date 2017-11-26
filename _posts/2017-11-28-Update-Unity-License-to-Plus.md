@@ -29,8 +29,8 @@ Plusの累計は2万ちょいなんでだいたい3万くらいの買い物
 ついでに今UnityRoomでやってる協賛キャンペーンにも参加したいですし色々触れるようにしたいなぁという感じ
 
 UnityRoomのキャンペーンについて知らない方は以下を参照してください。
-* [UnityRoom][https://unityroom.com/]
-* [キャンペーンページ][http://assetstore.info/eventandcontest/collaboration/unityroomand1weekgamejam/]
+* (UnityRoom)[https://unityroom.com/]
+* (キャンペーンページ)[http://assetstore.info/eventandcontest/collaboration/unityroomand1weekgamejam/]
 
 
 どんなゲームつくるか決めてないのでとりあえず12月末までになんか作ります。
