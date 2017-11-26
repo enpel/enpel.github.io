@@ -15,4 +15,4 @@ Unityでの開発をメインにやってます。
 
 ### Contact me
 
-[email@gmail.com](mailto:enpel@gmail.com)
+[enpel@gmail.com](mailto:enpel@gmail.com)
