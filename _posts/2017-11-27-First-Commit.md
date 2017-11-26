@@ -3,6 +3,7 @@ layout: post
 title: Githubでブログとかメモとか
 tags:
 - 雑
+- GithubPages
 ---
 
 こちらを参考に作ってみました。
@@ -22,6 +23,13 @@ tags:
 * Markdownの書き方
 
 [https://qiita.com/Qiita/items/c686397e4a0f4f11683d](https://qiita.com/Qiita/items/c686397e4a0f4f11683d)
+
+* Youtubeの動画のサムネを表示
+
+動画埋め込みはできないようだったのでサムネのみだけどないよりマシなはず
+
+[https://www.tecking.org/youtube-markdown/](https://www.tecking.org/youtube-markdown/)
+
 
 ## おまけ
 
