@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Githubでブログとかメモとか
+tags:
+- 雑
 ---
 
 こちらを参考に作ってみました。
