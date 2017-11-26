@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Unityのこととかいろいろ書きます
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+@enpel
+Unityでの開発をメインにやってます。
+サーバー側はまだ全然わからないのでこれからやっていきます。
+どうぞよろしく :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email@gmail.com](mailto:enpel@gmail.com)
