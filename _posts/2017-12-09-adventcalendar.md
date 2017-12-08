@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 雑談Slack Advent Calendar 2017　海外ゲーの情報ソース
+title: 雑談Slack Advent Calendar 2017_8日目　海外ゲーの情報ソースと少女前線
 tags:
 - AdventCalendar
 - 情報ソース
