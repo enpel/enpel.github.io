@@ -8,7 +8,7 @@ tags:
 ---
 
 
-この記事は[雑談Slack Advent Calendar 2017](https://adventar.org/calendars/2674#list-2017-12-06)8日目の記事です。
+この記事は[雑談Slack Advent Calendar 2017](https://adventar.org/calendars/2674#list-2017-12-06)の8日目の記事です。
 
 自分はわりと海外のゲームを遊ぶ事を定期的にやってたりします
 （主にスマホです。PCやボドゲもももちろん遊ぶけど）
