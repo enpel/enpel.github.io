@@ -1,0 +1,22 @@
+---
+layout: post
+title: アセットインポーターの設定を取得する
+tags:
+- Editor拡張
+- Unity
+---
+
+```
+            var files = System.IO.Directory.GetFiles(
+                directoryPath, "*.fbx", System.IO.SearchOption.AllDirectories);
+
+            var importers = files.Select(x => AssetImporter.GetAtPath(x) as ModelImporter)
+                .Where(x => x != null)
+                .ToArray();
+```
+
+ファイルをとってきてインポーターをとってきてるだけ
+
+
+
+
